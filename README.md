@@ -4,6 +4,6 @@ Credit to [jiaaro](https://stackoverflow.com/questions/29547218/remove-silence-a
 
 Requirements: python 3.5, pydub
 
-Usage: ```python remove-silence-from-wav-files.py --source PATH_TO_SOURCE_DIR_OF_WAV_FILES --destination DESTINATION```
+Usage: ```python remove-silence-from-wav-files.py --source PATH_TO_SOURCE_DIR_OF_WAV_FILES```
 
 
